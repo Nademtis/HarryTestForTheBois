@@ -1,0 +1,22 @@
+userMenu
+    BarberMenu
+    accountantMenu
+
+
+Mandag til fredag 10-18
+//Et array for hver dag - hvis 30 min - 16 index
+
+//et array for hver dag med 16 index, 30 min interval
+
+Day generate an empty String Arraylist
+Harry can fill in timeslots. gemt som string. gemmer i objektet til day
+
+Add/Delete/Edit
+prompt dags dato og og 4 hverdage frem. (det er days objects der ligger i en array) (evt. flere dage prompt)
+vælg den dag. (switch)
+brug den dags arrayList of timestamps
+
+
+
+arraylist af Day
+    arraylist string
